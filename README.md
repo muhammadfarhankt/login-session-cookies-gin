@@ -1,5 +1,5 @@
 # Login & Logout System
-Login and Logout System Using Session & Cookies using Golang Gin Framework
+Login and Logout System Using Session & Cookies with Golang Gin Framework
 
 ## Usage
 
