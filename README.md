@@ -18,3 +18,9 @@ go get -u github.com/gin-gonic/gin
 ```bash
 go get github.com/gin-contrib/sessions
 ```
+
+### Run Project
+
+```bash
+go run main.go
+```
