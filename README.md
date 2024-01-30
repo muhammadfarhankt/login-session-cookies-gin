@@ -8,5 +8,9 @@ Login and Logout System Using Session & Cookies using Golang Gin Framework
 Download and install dependencies:
 
 ```bash
+go get -u github.com/gin-gonic/gin
+```
+
+```bash
 go get github.com/gin-contrib/sessions
 ```
