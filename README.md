@@ -5,6 +5,10 @@ Login and Logout System Using Session & Cookies using Golang Gin Framework
 
 ### Start using it
 
+```bash
+go mod init <project_name>
+```
+
 Download and install dependencies:
 
 ```bash
